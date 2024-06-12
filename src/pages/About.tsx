@@ -23,9 +23,13 @@ export const About = () => {
                     </div>
                 </div>
                 <div>
-                    <h1 className="text-5xl font-bold">Box Office News!</h1>
-                    <p className="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
-                    <button className="btn btn-primary">Get Started</button>
+                    <h1 className="text-5xl font-bold">About Me</h1>
+                    <p className="py-6">I'm a Computer Science major at The University of Alabama, with an interest in Software Engineering. My academic journey is complemented by a passion for System Design, Data Structures, and Algorithms.<br/><br/> Being highly involved with undergraduate research, I have co-authored two papers that explore the intersections of Robotics and Physics with Artificial Intelligence.<br/><br/> Beyond academia, I am an avid traveler with an interest in cultural exploration. Having ventured into 6 countries, I have relished immersing myself in diverse landscapes and culinary delights, enriching my perspective on global diversity.<br/><br/> Through this website, I aspire to offer a glimpse into my Journey towards becoming a better Software Engineer one commit at a time.</p>
+                    <button className="btn btn-outline">Github</button>
+                    <span style={{ marginRight: '10px' }}></span>
+                    <button className="btn btn-outline btn-info">LinkedIn</button>
+
+                    
                 </div>
             </div>
         </div>
