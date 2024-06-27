@@ -66,3 +66,14 @@
   50% { border-color: orange }
 }
 
+.about-image{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+.about-image p{
+  text-align: left;
+  margin-right: 80px;
+  margin-left: 80px;
+  font-size: 16px;
+}
